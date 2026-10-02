@@ -65,8 +65,8 @@ This repository showcases a collection of projects developed throughout my journ
 I am actively seeking **internship placements for the 2026 cycle**. I am highly motivated to contribute to software architecture, data-driven projects, or secure development teams in a professional environment.
 
 ## 📫 Let's Connect
-- **LinkedIn:** [Carlos Chirenda](https://www.linkedin.com/in/carlos-chirenda-9828a5380/)
-- **GitHub:** [Carlos111205](https://github.com/Carlos111205)
+- **LinkedIn:** [Mary Chidziwa](https://www.linkedin.com/in/mary-chidziwa-a2b55a3a4/)
+- **GitHub:** [Mary3104](https://github.com/Mary3104)
 
 ---
 
