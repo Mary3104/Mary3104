@@ -1,4 +1,4 @@
-# Hello, I'm Carlos Chirenda 👋
+# Hello, I'm Mary Chidziwa 👋
 
 Computer Science student at the **National University of Science and Technology (NUST)** and aspiring Software Engineer. I bridge the gap between hardware, cloud, and user-facing mobile applications with a focus on data-driven solutions and security.
 
